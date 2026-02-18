@@ -1,4 +1,4 @@
-# FDB-enciclopedia de videojuegos-GIT
+# FDB-VIDEOJUEGOS-GIT
 Propósito: Crear una base de datos que guarde distinta información sobre videojuegos. 
 Motivacióm:
 
